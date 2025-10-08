@@ -69,4 +69,5 @@
 ---
 
 ⭐ **"Code. Learn. Build. Repeat."**
-![snake gif](https://github.com/vaibhavx002/vaibhavx002/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vaibhavx002/vaibhavx002/blob/output/github-contribution-grid-snake.svg)
+
