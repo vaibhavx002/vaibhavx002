@@ -1,20 +1,36 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2CB&width=600&lines=Hey!+I'm+Vaibhav+Yadav;AI+%26+Full+Stack+Developer;Passionate+about+Computer+Vision+%26+Machine+Learning;Building+Scalable+Real-Time+Systems)](https://git.io/typing-svg)
 
-# 👋 Hi, I'm Vaibhav Yadav  
-
-🎓 **B.Tech CSE (AI)** student @ NIET | Aspiring **AI & Full-Stack Developer**  
-💡 Passionate about **Computer Vision**, **Machine Learning**, and **Scalable Systems**
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Vaibhav Yadav</h1>
+<h3 align="center">
+🎓 B.Tech CSE (AI) @ NIET | Aspiring AI & Full-Stack Developer  
+💡 Passionate about Computer Vision, Machine Learning & Scalable Systems
+</h3>
 
 ---
 
-### 🚀 About Me  
+<!-- About Section with Image -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+### 🚀 About Me
+
 - 🧠 Exploring **Deep Learning**, **Backend Systems**, and **Real-Time AI Applications**  
-- 💻 Skilled in **Python, Java, React, Node.js, MongoDB, OpenCV**  
-- 🔭 Working on projects that merge **AI with real-world safety and automation**  
-- 🎯 Goal: Build intelligent software that impacts millions
-- 
-![Profile views](https://komarev.com/ghpvc/?username=vaibhavx002&label=Profile%20Views&color=0e75b6&style=flat)
+- 💻 Skilled in **Python**, **Java**, **React**, **Node.js**, **MongoDB**, **OpenCV**  
+- ⚙️ Working on projects that merge **AI with real-world safety and automation**  
+- 🎯 Goal: Build intelligent software that impacts millions  
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhavx002&label=Profile%20Views&color=0e75b6&style=flat)
+
+</td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/vaibhavx002/vaibhavx002/main/assets/coding.gif" width="200" alt="Vaibhav coding illustration">
+    </td>
+  </tr>
+</table>
 
 ---
 
