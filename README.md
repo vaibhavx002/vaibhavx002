@@ -27,8 +27,9 @@
 
 </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/vaibhavx002/vaibhavx002/main/assets/coding.gif" width="200" alt="Vaibhav coding illustration">
-    </td>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300">
+
+    
   </tr>
 </table>
 
