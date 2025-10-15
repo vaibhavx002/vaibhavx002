@@ -47,9 +47,6 @@
 <td align="center" width="150">
   <img src="https://skillicons.dev/icons?i=js" width="45"/><br><b>JavaScript</b>
 </td>
-<td align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=cpp" width="45"/><br><b>C++</b>
-</td>
 </tr>
 </table>
 
